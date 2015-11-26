@@ -5,7 +5,7 @@
  For "racecar" it should return true. For "apple" it should return false
 */
 
-function palindrome(s) {
+let palindrome = (s) => {
   for (let i=0; i < s.length/2; i++) {
     if (s.charAt(i) !== s.charAt(s.length - i - 1)) {
       return false;
