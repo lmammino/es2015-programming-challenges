@@ -15,4 +15,8 @@ For numbers which are multiples of both three and five print "FizzBuzz".
 For a given string, check to see if it is a Palindrome.
 For "racecar" it should return `true`. For "apple" it should return `false`.
 
+## 4. [O'clock](src/04_oclock.js)
+Write a program that given a time (in hours and minutes) gives you the degree of
+the angle between the hands on the clock.
+
 ## ... More to come!
