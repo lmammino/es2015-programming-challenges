@@ -1,5 +1,5 @@
-# programming-challenges
-Some ES2015 solutions to some common programming challenges
+# es2015-programming-challenges
+Some basic common programming challenges with ES2015 solutions
 
 ## 1. [Reverse](src/01_reverse.js)
 For the given sentence "Done is better than perfect” return the reversed
@@ -14,3 +14,5 @@ For numbers which are multiples of both three and five print "FizzBuzz".
 ## 3. [Palindrome](src/03_palindrome.js)
 For a given string, check to see if it is a Palindrome.
 For "racecar" it should return `true`. For "apple" it should return `false`.
+
+## ... More to come!
