@@ -19,4 +19,13 @@ For "racecar" it should return `true`. For "apple" it should return `false`.
 Write a program that given a time (in hours and minutes) gives you the degree of
 the angle between the hands on the clock.
 
-## ... More to come!
+## 5. [The sum](src05_thesum.js)
+You have an array with N integers and you should write a program to find two
+elements with given sum K
+
+## 6. Zero Sky Diving (TODO)
+You are given an array of integers. Write an algorithm that brings all nonzero
+elements to the left of the array, and returns the number of nonzero elements
+
+## 7. Fib yo! (TODO)
+Implement a function to output the nth value in the Fibonacci sequence.
